@@ -1,6 +1,6 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
-import './index.css'
+import './main.css'
 import { registerComponent, getComponentById, parseJsonProps } from './config/mapping'
 
 import Hello from './components/Hello';
